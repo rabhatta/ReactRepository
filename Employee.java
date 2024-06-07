@@ -1,5 +1,5 @@
 package com.java.interview.Pojo; 
-  
+@Bean()  
 public class Employee { 
     private String serialNumber; 
     private String name; 
