@@ -1,4 +1,4 @@
-package com.java.interview.Controller; 
+package com.java.interview.Pojo; 
   
 public class Employee { 
     private String serialNumber; 
